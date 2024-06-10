@@ -1,6 +1,5 @@
 ### Hi 👋
 - 🇳🇬
-- 👩🏾‍💻 Currently learning C++!
 - 🌟 Interested in Artificial Intelligence and Web/App Development!
 - 😄 Proficient in Python, HTML/CSS, Javascript, and React/React Native!
 
